@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "version": "1.1",
-    "name": "Url tracker",
+    "name": "Url Tracker",
     "action": {
         "default_popup": "index.html",
         "default_icon": "squirrel-with-acorn.png"
