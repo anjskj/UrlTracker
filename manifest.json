@@ -4,6 +4,6 @@
     "name": "Url tracker",
     "action": {
         "default_popup": "index.html",
-        "default_icon": "squirrel-with-acorn.svg"
+        "default_icon": "squirrel-with-acorn.png"
     }
 }
